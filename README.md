@@ -1,6 +1,6 @@
 # html5-boilerplate
 Html5 + Scss + JavaScript の開発環境。
-GitHub Pages: https://nobux42.github.io/html5-boilerplate/
+- GitHub Pages: https://nobux42.github.io/html5-boilerplate/
 
 
 ## Commands
